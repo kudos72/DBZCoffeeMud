@@ -1,0 +1,124 @@
+20150716.1341.55 info  MUD            CoffeeMud v5.8.5
+20150716.1341.55 info  MUD            (C) 2000-2014 Bo Zimmerman
+20150716.1341.55 info  MUD            http://www.coffeemud.org
+20150716.1341.55 info  HOST0          Disabled subsystems: DBERRORQUESTART
+20150716.1341.55 info  MUD@5555       MUD Server started on port: 5555
+20150716.1341.55 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
+20150716.1341.55 debug HOST0          SSL not configured.
+20150716.1341.55 debug HOST0          SSL not configured.
+20150716.1341.55 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20150716.1341.55 info  cweb-pub0      Started http pub0 on port 27744
+20150716.1341.55 info  cweb-admin0    Started http admin0 on port 27777
+20150716.1341.55 error cweb-pub0      Port 80: Address already in use: bind
+20150716.1341.55 debug cweb-pub0Timeo Timeout Thread started
+20150716.1341.55 debug cweb-admin0Tim Timeout Thread started
+20150716.1341.55 error WebMacroCreame No web macro: 'SipletInterface'
+20150716.1341.55 info  HOST0          WebMacros loaded  : 173
+20150716.1341.56 error DefCharStats   Detected mob with 16/1 STR
+20150716.1341.56 error DefCharStats   Detected mob with 18/1 DEX
+20150716.1341.56 error DefCharStats   Detected mob with 18/1 STR
+20150716.1341.56 error DefCharStats   Detected mob with 16/1 DEX
+20150716.1341.56 error DefCharStats   Detected mob with 12/1 STR
+20150716.1341.56 error DefCharStats   Detected mob with 17/1 DEX
+20150716.1341.56 error DefCharStats   Detected mob with 13/1 STR
+20150716.1341.56 error DefCharStats   Detected mob with 15/1 STR
+20150716.1341.56 error DefCharStats   Detected mob with 14/1 DEX
+20150716.1341.56 error DefCharStats   Detected mob with 20/1 STR
+20150716.1341.56 error DefCharStats   Detected mob with 13/1 DEX
+20150716.1341.56 error DefCharStats   Detected mob with 9/1 INT
+20150716.1341.56 error DefCharStats   Detected mob with 15/1 DEX
+20150716.1341.56 error DefCharStats   Detected mob with 29/1 STR
+20150716.1341.56 error DefCharStats   Detected mob with 9/1 DEX
+20150716.1341.56 error DefCharStats   Detected mob with 16/1 INT
+20150716.1341.56 error DefCharStats   Detected mob with 9/1 STR
+20150716.1341.56 error DefCharStats   Detected mob with 8/1 INT
+20150716.1341.56 error DefCharStats   Detected mob with 22/1 STR
+20150716.1341.56 error DefCharStats   Detected mob with 11/1 STR
+20150716.1341.56 info  HOST0          MOB Types loaded  : 132
+20150716.1341.56 info  HOST0          Exit Types loaded : 27
+20150716.1341.56 info  HOST0          Area Types loaded : 13
+20150716.1341.56 info  HOST0          Locales loaded    : 102
+20150716.1341.56 info  HOST0          Fighter Skills    : 134
+20150716.1341.56 info  HOST0          Chants loaded     : 255
+20150716.1341.56 info  HOST0          Languages loaded  : 49
+20150716.1341.56 info  HOST0          Properties loaded : 223
+20150716.1341.56 info  HOST0          Prayers loaded    : 270
+20150716.1341.56 info  HOST0          Skills loaded     : 279
+20150716.1341.57 info  HOST0          Songs loaded      : 148
+20150716.1341.57 info  HOST0          Spells loaded     : 362
+20150716.1341.57 info  HOST0          Heroics loaded    : 6
+20150716.1341.57 info  HOST0          Tech Skills loaded: 2
+20150716.1341.57 info  HOST0          Traps loaded      : 75
+20150716.1341.57 info  HOST0          Basic Items loaded: 106
+20150716.1341.57 info  HOST0          Weapons loaded    : 57
+20150716.1341.57 info  HOST0          Armor loaded      : 50
+20150716.1341.57 info  HOST0          Magic Items loaded: 41
+20150716.1341.57 info  HOST0          Clan Items loaded : 19
+20150716.1341.57 info  HOST0          Electronics loaded: 56
+20150716.1341.57 info  HOST0          Behaviors loaded  : 95
+20150716.1341.57 info  HOST0          Commands loaded   : 269
+20150716.1341.57 info  HOST0          Races loaded      : 173
+20150716.1341.57 info  HOST0          Classes loaded    : 49
+20150716.1342.00 info  HOST0          Expertises defined: 1568
+20150716.1342.00 info  HOST0          Channels loaded   : 20
+20150716.1342.00 info  HOST0          Socials loaded    : 308
+20150716.1342.00 info  HOST0          Clans loaded      : 0
+20150716.1342.00 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
+20150716.1342.00 info  I3Server       InterMud3 Core (c)1996 George Reese
+20150716.1342.00 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
+20150716.1342.01 info  Intermud3      I3 client connection: 204.209.44.3@8080
+20150716.1342.01 info  I3Server       InterMud3 Server started on port 27766
+20150716.1342.01 info  HOST0          Loading catalog...
+20150716.1342.01 info  HOST0          Loading map...
+20150716.1342.01 info  HOST0          Preparing map...
+20150716.1342.01 info  HOST0          Mapped rooms      : 1 in 1 areas
+20150716.1342.01 info  HOST0          Services and utilities started
+20150716.1342.01 info  HOST0          Host#0 initializated.
+20150716.1342.01 info  MUD            Initialization complete.
+20150716.1342.32 info  Worker0#2      Connection from 0:0:0:0:0:0:0:1
+20150716.1342.39 info  Worker0#4      Creating user: Qqqqq
+20150716.1342.58 info  Worker0#1      Created user: Qqqqq
+20150716.1342.58 info  Worker0#1      0:0:0:0:0:0:0:1 siplet MXP MSDP GMCP ANSI, character login: Qqqqq
+20150716.1343.15 warni MOBloader      Reset the birthday of player 'Kudos' (Might have been holdover from being first-year player)
+20150716.1344.07 error cweb-admin0#1  Exception in virtualPageFilter() - java.lang.NullPointerException
+20150716.1344.07 error cweb-admin0#1  null
+java.lang.NullPointerException
+	at com.planet_ink.coffee_mud.CharClasses.NamekFighter.outfit(NamekFighter.java:260)
+	at com.planet_ink.coffee_mud.CharClasses.StdCharClass.makeGenCharClass(StdCharClass.java:801)
+	at com.planet_ink.coffee_mud.WebMacros.CharClassData.runMacro(CharClassData.java:317)
+	at com.planet_ink.coffee_mud.Libraries.WebMacroCreamer.runMacro(WebMacroCreamer.java:621)
+	at com.planet_ink.coffee_mud.Libraries.WebMacroCreamer.virtualPageFilter(WebMacroCreamer.java:528)
+	at com.planet_ink.coffee_mud.Libraries.WebMacroCreamer.convertOutput(WebMacroCreamer.java:84)
+	at com.planet_ink.coffee_web.http.HTTPReqProcessor.generateOutput(HTTPReqProcessor.java:617)
+	at com.planet_ink.coffee_web.http.HTTPReader.run(HTTPReader.java:800)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+20150716.1344.28 error cweb-admin0#1  Exception in virtualPageFilter() - java.lang.NullPointerException
+20150716.1344.28 error cweb-admin0#1  null
+java.lang.NullPointerException
+	at com.planet_ink.coffee_mud.CharClasses.NamekFighter.outfit(NamekFighter.java:260)
+	at com.planet_ink.coffee_mud.CharClasses.StdCharClass.makeGenCharClass(StdCharClass.java:801)
+	at com.planet_ink.coffee_mud.WebMacros.CharClassData.runMacro(CharClassData.java:317)
+	at com.planet_ink.coffee_mud.Libraries.WebMacroCreamer.runMacro(WebMacroCreamer.java:621)
+	at com.planet_ink.coffee_mud.Libraries.WebMacroCreamer.virtualPageFilter(WebMacroCreamer.java:528)
+	at com.planet_ink.coffee_mud.Libraries.WebMacroCreamer.convertOutput(WebMacroCreamer.java:84)
+	at com.planet_ink.coffee_web.http.HTTPReqProcessor.generateOutput(HTTPReqProcessor.java:617)
+	at com.planet_ink.coffee_web.http.HTTPReader.run(HTTPReader.java:800)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+20150716.1344.46 error cweb-admin0#1  Exception in virtualPageFilter() - java.lang.NullPointerException
+20150716.1344.46 error cweb-admin0#1  null
+java.lang.NullPointerException
+	at com.planet_ink.coffee_mud.CharClasses.NamekFighter.outfit(NamekFighter.java:260)
+	at com.planet_ink.coffee_mud.CharClasses.StdCharClass.makeGenCharClass(StdCharClass.java:801)
+	at com.planet_ink.coffee_mud.WebMacros.CharClassData.runMacro(CharClassData.java:317)
+	at com.planet_ink.coffee_mud.Libraries.WebMacroCreamer.runMacro(WebMacroCreamer.java:621)
+	at com.planet_ink.coffee_mud.Libraries.WebMacroCreamer.virtualPageFilter(WebMacroCreamer.java:528)
+	at com.planet_ink.coffee_mud.Libraries.WebMacroCreamer.convertOutput(WebMacroCreamer.java:84)
+	at com.planet_ink.coffee_web.http.HTTPReqProcessor.generateOutput(HTTPReqProcessor.java:617)
+	at com.planet_ink.coffee_web.http.HTTPReader.run(HTTPReader.java:800)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)

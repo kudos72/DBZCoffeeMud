@@ -1,0 +1,38 @@
+20150714.1843.43 info  MUD            CoffeeMud v5.8.5
+20150714.1843.43 info  MUD            (C) 2000-2014 Bo Zimmerman
+20150714.1843.43 info  MUD            http://www.coffeemud.org
+20150714.1843.44 info  HOST0          Disabled subsystems: DBERRORQUESTART
+20150714.1843.44 info  MUD@5555       MUD Server started on port: 5555
+java.io.FileNotFoundException: G:\OneDrive\CoffeeMud\resources\fakedb\fakedb.schema (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileReader.<init>(FileReader.java:72)
+	at com.planet_ink.fakedb.Backend.readSchema(Backend.java:935)
+	at com.planet_ink.fakedb.Backend.open(Backend.java:1062)
+	at com.planet_ink.fakedb.Connection.connect(Connection.java:80)
+	at com.planet_ink.fakedb.Connection.<init>(Connection.java:42)
+	at com.planet_ink.fakedb.Driver.connect(Driver.java:46)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at com.planet_ink.coffee_mud.core.database.DBConnection.<init>(DBConnection.java:120)
+	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchAny(DBConnections.java:345)
+	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetch(DBConnections.java:315)
+	at com.planet_ink.coffee_mud.core.database.DBConnector.DBFetch(DBConnector.java:157)
+	at com.planet_ink.coffee_mud.application.MUD$HostGroup.initHost(MUD.java:1044)
+	at com.planet_ink.coffee_mud.application.MUD$HostGroup.run(MUD.java:1420)
+20150714.1843.44 error DBConnections  unable to open database
+java.sql.SQLException: unable to open database
+	at com.planet_ink.fakedb.Connection.connect(Connection.java:81)
+	at com.planet_ink.fakedb.Connection.<init>(Connection.java:42)
+	at com.planet_ink.fakedb.Driver.connect(Driver.java:46)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at com.planet_ink.coffee_mud.core.database.DBConnection.<init>(DBConnection.java:120)
+	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetchAny(DBConnections.java:345)
+	at com.planet_ink.coffee_mud.core.database.DBConnections.DBFetch(DBConnections.java:315)
+	at com.planet_ink.coffee_mud.core.database.DBConnector.DBFetch(DBConnector.java:157)
+	at com.planet_ink.coffee_mud.application.MUD$HostGroup.initHost(MUD.java:1044)
+	at com.planet_ink.coffee_mud.application.MUD$HostGroup.run(MUD.java:1420)
+20150714.1843.44 error HOST0          Fatal database error: <BR>#101 DBCONNECTIONS REPORTING A DISCONNECTED STATE<BR>Connections in use=0/0
+20150714.1843.44 error MUD            CoffeeMud failed to start.

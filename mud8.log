@@ -1,0 +1,58 @@
+20150714.1440.28 info  MUD            CoffeeMud v5.8.5
+20150714.1440.28 info  MUD            (C) 2000-2014 Bo Zimmerman
+20150714.1440.28 info  MUD            http://www.coffeemud.org
+20150714.1440.32 info  HOST0          Disabled subsystems: DBERRORQUESTART
+20150714.1440.33 info  MUD@5555       MUD Server started on port: 5555
+20150714.1440.34 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
+20150714.1440.35 debug HOST0          SSL not configured.
+20150714.1440.35 debug HOST0          SSL not configured.
+20150714.1440.35 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20150714.1440.36 info  cweb-pub0      Started http pub0 on port 27744
+20150714.1440.36 info  cweb-pub0      Started http pub0 on port 80
+20150714.1440.36 info  cweb-admin0    Started http admin0 on port 27777
+20150714.1440.36 debug cweb-admin0Tim Timeout Thread started
+20150714.1440.36 debug cweb-pub0Timeo Timeout Thread started
+20150714.1440.40 info  HOST0          WebMacros loaded  : 173
+20150714.1440.45 info  HOST0          MOB Types loaded  : 132
+20150714.1440.45 info  HOST0          Exit Types loaded : 27
+20150714.1440.46 info  HOST0          Area Types loaded : 13
+20150714.1440.47 info  HOST0          Locales loaded    : 102
+20150714.1440.48 info  HOST0          Fighter Skills    : 134
+20150714.1440.50 info  HOST0          Chants loaded     : 255
+20150714.1440.50 info  HOST0          Languages loaded  : 49
+20150714.1440.52 info  HOST0          Properties loaded : 223
+20150714.1440.54 info  HOST0          Prayers loaded    : 270
+20150714.1440.57 info  HOST0          Skills loaded     : 279
+20150714.1440.58 info  HOST0          Songs loaded      : 148
+20150714.1441.06 info  HOST0          Spells loaded     : 362
+20150714.1441.06 info  HOST0          Heroics loaded    : 6
+20150714.1441.07 info  HOST0          Tech Skills loaded: 2
+20150714.1441.09 info  HOST0          Traps loaded      : 75
+20150714.1441.13 info  HOST0          Basic Items loaded: 106
+20150714.1441.13 info  HOST0          Weapons loaded    : 57
+20150714.1441.14 info  HOST0          Armor loaded      : 50
+20150714.1441.14 info  HOST0          Magic Items loaded: 41
+20150714.1441.14 info  HOST0          Clan Items loaded : 19
+20150714.1441.17 info  HOST0          Electronics loaded: 56
+20150714.1441.18 info  HOST0          Behaviors loaded  : 95
+20150714.1441.20 info  HOST0          Commands loaded   : 269
+20150714.1441.20 info  HOST0          Races loaded      : 173
+20150714.1441.21 info  HOST0          Classes loaded    : 49
+20150714.1441.37 info  HOST0          Expertises defined: 1568
+20150714.1441.37 info  HOST0          Channels loaded   : 20
+20150714.1441.37 info  HOST0          Socials loaded    : 308
+20150714.1441.37 info  HOST0          Clans loaded      : 0
+20150714.1441.38 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
+20150714.1441.38 info  I3Server       InterMud3 Core (c)1996 George Reese
+20150714.1441.38 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
+20150714.1441.39 info  Intermud3      I3 client connection: 204.209.44.3@8080
+20150714.1441.39 info  I3Server       InterMud3 Server started on port 27766
+20150714.1441.39 info  HOST0          Loading catalog...
+20150714.1441.39 info  HOST0          Loading map...
+20150714.1441.40 info  HOST0          Preparing map...
+20150714.1441.40 info  HOST0          Mapped rooms      : 1 in 1 areas
+20150714.1441.40 info  HOST0          Services and utilities started
+20150714.1441.40 info  HOST0          Host#0 initializated.
+20150714.1441.40 info  MUD            Initialization complete.
+20150714.1727.20 info  Worker0#5      Connection from 0:0:0:0:0:0:0:1
+20150714.1727.30 info  Worker0#2      Creating user: Ooo

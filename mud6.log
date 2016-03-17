@@ -1,0 +1,85 @@
+20150714.1858.28 info  MUD            CoffeeMud v5.8.5
+20150714.1858.28 info  MUD            (C) 2000-2014 Bo Zimmerman
+20150714.1858.28 info  MUD            http://www.coffeemud.org
+20150714.1858.29 info  HOST0          Disabled subsystems: DBERRORQUESTART
+20150714.1858.29 info  MUD@5555       MUD Server started on port: 5555
+20150714.1858.29 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
+20150714.1858.29 debug HOST0          SSL not configured.
+20150714.1858.29 debug HOST0          SSL not configured.
+20150714.1858.29 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20150714.1858.29 info  cweb-pub0      Started http pub0 on port 27744
+20150714.1858.29 info  cweb-admin0    Started http admin0 on port 27777
+20150714.1858.29 error cweb-pub0      Port 80: Address already in use: bind
+20150714.1858.29 debug cweb-admin0Tim Timeout Thread started
+20150714.1858.29 debug cweb-pub0Timeo Timeout Thread started
+20150714.1858.29 info  HOST0          WebMacros loaded  : 173
+20150714.1858.30 info  HOST0          MOB Types loaded  : 132
+20150714.1858.30 info  HOST0          Exit Types loaded : 27
+20150714.1858.30 info  HOST0          Area Types loaded : 13
+20150714.1858.30 info  HOST0          Locales loaded    : 102
+20150714.1858.30 info  HOST0          Fighter Skills    : 134
+20150714.1858.30 info  HOST0          Chants loaded     : 255
+20150714.1858.30 info  HOST0          Languages loaded  : 49
+20150714.1858.30 info  HOST0          Properties loaded : 223
+20150714.1858.30 info  HOST0          Prayers loaded    : 270
+20150714.1858.31 info  HOST0          Skills loaded     : 279
+20150714.1858.31 info  HOST0          Songs loaded      : 148
+20150714.1858.31 info  HOST0          Spells loaded     : 362
+20150714.1858.31 info  HOST0          Heroics loaded    : 6
+20150714.1858.31 info  HOST0          Tech Skills loaded: 2
+20150714.1858.31 info  HOST0          Traps loaded      : 75
+20150714.1858.31 info  HOST0          Basic Items loaded: 106
+20150714.1858.31 info  HOST0          Weapons loaded    : 57
+20150714.1858.31 info  HOST0          Armor loaded      : 50
+20150714.1858.31 info  HOST0          Magic Items loaded: 41
+20150714.1858.31 info  HOST0          Clan Items loaded : 19
+20150714.1858.31 info  HOST0          Electronics loaded: 56
+20150714.1858.31 info  HOST0          Behaviors loaded  : 95
+20150714.1858.32 info  HOST0          Commands loaded   : 269
+20150714.1858.32 info  HOST0          Races loaded      : 173
+20150714.1858.32 info  HOST0          Classes loaded    : 49
+20150714.1858.35 info  HOST0          Expertises defined: 1568
+20150714.1858.35 info  HOST0          Channels loaded   : 20
+20150714.1858.35 info  HOST0          Socials loaded    : 308
+20150714.1858.35 info  HOST0          Clans loaded      : 0
+20150714.1858.35 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
+20150714.1858.35 info  I3Server       InterMud3 Core (c)1996 George Reese
+20150714.1858.35 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
+20150714.1858.36 info  Intermud3      I3 client connection: 204.209.44.3@8080
+20150714.1858.36 info  I3Server       InterMud3 Server started on port 27766
+20150714.1858.36 info  HOST0          Loading catalog...
+20150714.1858.36 info  HOST0          Loading map...
+20150714.1858.36 info  HOST0          Preparing map...
+20150714.1858.36 info  HOST0          Mapped rooms      : 1 in 1 areas
+20150714.1858.36 info  HOST0          Services and utilities started
+20150714.1858.36 info  HOST0          Host#0 initializated.
+20150714.1858.36 info  MUD            Initialization complete.
+20150714.1859.30 error CM1Hndlr       CM1ReqHndler#1: null
+20150714.1859.30 error CM1Hndlr       null
+java.lang.IllegalArgumentException
+	at java.nio.HeapByteBuffer.put(HeapByteBuffer.java:202)
+	at com.planet_ink.coffee_mud.core.intermud.cm1.RequestHandler.run(RequestHandler.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+20150714.1902.52 info  Worker0#3      Connection from 0:0:0:0:0:0:0:1
+20150714.1903.05 info  Worker0#5      Creating user: Ttt
+20150714.1903.36 info  Worker0#3      Created user: Ttt
+20150714.1903.37 info  Worker0#3      0:0:0:0:0:0:0:1 siplet MXP MSDP GMCP ANSI, character login: Ttt
+20150714.1904.29 info  Worker0#2      Connection from 0:0:0:0:0:0:0:1
+20150714.1904.37 info  Worker0#6      Logout: Ttt (1m)
+20150714.1904.37 info  Worker0#6      Disconnect: Ttt: 0:0:0:0:0:0:0:1 (2m 45s)
+20150714.1904.40 info  Worker0#1      Connection from 0:0:0:0:0:0:0:1
+20150714.1904.50 info  Worker0#1      Creating user: Kkk
+20150714.1905.12 info  Worker0#4      Created user: Kkk
+20150714.1905.12 info  Worker0#4      0:0:0:0:0:0:0:1 siplet MXP MSDP GMCP ANSI, character login: Kkk
+20150714.1906.52 info  Worker0#7      Disconnect: 0:0:0:0:0:0:0:1 (2m)
+20150714.1911.32 warni MOBloader      Reset the birthday of player 'Kudos' (Might have been holdover from being first-year player)
+20150714.1912.58 info  Worker0#3      Connection from 0:0:0:0:0:0:0:1
+20150714.1915.23 info  Grinder        Kudos modified class NamekWarrior
+20150714.1916.00 info  INIModify      Key 'STARTHP' modified.
+20150714.1916.00 info  INIModify      Key 'STARTMANA' modified.
+20150714.1917.00 info  INIModify      Key 'COMBATSYSTEM' modified.
+20150714.1918.36 error THSessions0    KILLING DEAD Session: Unknown (), out for 6m 39s 659ms
+20150714.1918.36 error THSessions0    STATUS  was :LOGOUT, LASTCMD was :[]
+20150714.1918.36 info  Worker0#1      Disconnect: 0:0:0:0:0:0:0:1 (6m)

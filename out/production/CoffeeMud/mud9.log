@@ -1,0 +1,17 @@
+20150716.1341.35 info  MUD            CoffeeMud v5.8.5
+20150716.1341.35 info  MUD            (C) 2000-2014 Bo Zimmerman
+20150716.1341.35 info  MUD            http://www.coffeemud.org
+20150716.1341.35 info  HOST0          Disabled subsystems: DBERRORQUESTART
+20150716.1341.36 error MUD@5555       Address already in use: JVM_Bind
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at com.planet_ink.coffee_mud.application.MUD.run(MUD.java:319)
+20150716.1341.36 info  MUD@5555       Server cleaning up.
+20150716.1341.36 info  MUD@5555       MUD on port 5555 stopped!
+20150716.1341.36 error HOST0          HOST#0 could not start any listeners.
+20150716.1341.36 error MUD            CoffeeMud failed to start.

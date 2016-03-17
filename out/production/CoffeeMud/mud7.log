@@ -1,0 +1,87 @@
+20150716.1407.48 info  MUD            CoffeeMud v5.8.5
+20150716.1407.48 info  MUD            (C) 2000-2014 Bo Zimmerman
+20150716.1407.48 info  MUD            http://www.coffeemud.org
+20150716.1407.48 info  HOST0          Disabled subsystems: DBERRORQUESTART
+20150716.1407.48 info  MUD@5555       MUD Server started on port: 5555
+20150716.1407.48 info  HOST0          Connected to jdbc:fakedb:resources/fakedb
+20150716.1407.48 debug HOST0          SSL not configured.
+20150716.1407.48 debug HOST0          SSL not configured.
+20150716.1407.48 error SMTP           Set your coffeemud.ini parameter: DOMAIN
+20150716.1407.48 info  cweb-admin0    Started http admin0 on port 27777
+20150716.1407.48 info  cweb-pub0      Started http pub0 on port 27744
+20150716.1407.48 error cweb-pub0      Port 80: Address already in use: bind
+20150716.1407.48 debug cweb-admin0Tim Timeout Thread started
+20150716.1407.48 debug cweb-pub0Timeo Timeout Thread started
+20150716.1407.48 error WebMacroCreame No web macro: 'SipletInterface'
+20150716.1407.49 info  HOST0          WebMacros loaded  : 173
+20150716.1407.49 error DefCharStats   Detected mob with 16/1 STR
+20150716.1407.49 error DefCharStats   Detected mob with 18/1 DEX
+20150716.1407.49 error DefCharStats   Detected mob with 18/1 STR
+20150716.1407.49 error DefCharStats   Detected mob with 16/1 DEX
+20150716.1407.49 error DefCharStats   Detected mob with 12/1 STR
+20150716.1407.49 error DefCharStats   Detected mob with 17/1 DEX
+20150716.1407.49 error DefCharStats   Detected mob with 13/1 STR
+20150716.1407.49 error DefCharStats   Detected mob with 15/1 STR
+20150716.1407.49 error DefCharStats   Detected mob with 14/1 DEX
+20150716.1407.49 error DefCharStats   Detected mob with 20/1 STR
+20150716.1407.49 error DefCharStats   Detected mob with 13/1 DEX
+20150716.1407.49 error DefCharStats   Detected mob with 8/1 INT
+20150716.1407.49 error DefCharStats   Detected mob with 15/1 DEX
+20150716.1407.49 error DefCharStats   Detected mob with 29/1 STR
+20150716.1407.49 error DefCharStats   Detected mob with 9/1 DEX
+20150716.1407.49 error DefCharStats   Detected mob with 13/1 INT
+20150716.1407.49 error DefCharStats   Detected mob with 9/1 STR
+20150716.1407.49 error DefCharStats   Detected mob with 9/1 INT
+20150716.1407.49 error DefCharStats   Detected mob with 22/1 STR
+20150716.1407.49 error DefCharStats   Detected mob with 11/1 STR
+20150716.1407.49 info  HOST0          MOB Types loaded  : 132
+20150716.1407.49 info  HOST0          Exit Types loaded : 27
+20150716.1407.49 info  HOST0          Area Types loaded : 13
+20150716.1407.49 info  HOST0          Locales loaded    : 102
+20150716.1407.49 info  HOST0          Fighter Skills    : 134
+20150716.1407.49 info  HOST0          Chants loaded     : 255
+20150716.1407.49 info  HOST0          Languages loaded  : 49
+20150716.1407.49 info  HOST0          Properties loaded : 223
+20150716.1407.49 info  HOST0          Prayers loaded    : 270
+20150716.1407.50 info  HOST0          Skills loaded     : 279
+20150716.1407.50 info  HOST0          Songs loaded      : 148
+20150716.1407.50 info  HOST0          Spells loaded     : 362
+20150716.1407.50 info  HOST0          Heroics loaded    : 6
+20150716.1407.50 info  HOST0          Tech Skills loaded: 2
+20150716.1407.50 info  HOST0          Traps loaded      : 75
+20150716.1407.50 info  HOST0          Basic Items loaded: 106
+20150716.1407.50 info  HOST0          Weapons loaded    : 57
+20150716.1407.50 info  HOST0          Armor loaded      : 50
+20150716.1407.50 info  HOST0          Magic Items loaded: 41
+20150716.1407.50 info  HOST0          Clan Items loaded : 19
+20150716.1407.50 info  HOST0          Electronics loaded: 56
+20150716.1407.50 info  HOST0          Behaviors loaded  : 95
+20150716.1407.50 info  HOST0          Commands loaded   : 269
+20150716.1407.50 info  HOST0          Races loaded      : 173
+20150716.1407.50 info  HOST0          Classes loaded    : 49
+20150716.1407.54 info  HOST0          Expertises defined: 1568
+20150716.1407.54 info  HOST0          Channels loaded   : 20
+20150716.1407.54 info  HOST0          Socials loaded    : 308
+20150716.1407.54 info  HOST0          Clans loaded      : 0
+20150716.1407.54 info  CM1Server0@277 Started CM1Server0@27733 on port 27733
+20150716.1407.54 info  I3Server       InterMud3 Core (c)1996 George Reese
+20150716.1407.54 error Intermud       Please set ADMINEMAIL in your coffeemud.ini file.
+20150716.1407.55 info  Intermud3      I3 client connection: 204.209.44.3@8080
+20150716.1407.55 info  I3Server       InterMud3 Server started on port 27766
+20150716.1407.55 info  HOST0          Loading catalog...
+20150716.1407.55 info  HOST0          Loading map...
+20150716.1407.55 info  HOST0          Preparing map...
+20150716.1407.55 info  HOST0          Mapped rooms      : 1 in 1 areas
+20150716.1407.55 info  HOST0          Services and utilities started
+20150716.1407.55 info  HOST0          Host#0 initializated.
+20150716.1407.55 info  MUD            Initialization complete.
+20150716.1408.22 warni MOBloader      Reset the birthday of player 'Kudos' (Might have been holdover from being first-year player)
+20150716.1408.42 warni MOBloader      Reset the birthday of player 'Qqqqq' (Might have been holdover from being first-year player)
+20150716.1408.58 info  cweb-admin0#1  Qqqqq has been deleted.
+20150716.1408.58 info  PlayerDelete   Someone destroyed the user Qqqqq.
+20150716.1409.26 warni MOBloader      Reset the birthday of player 'Ttt' (Might have been holdover from being first-year player)
+20150716.1414.26 info  Worker0#3      Connection from 0:0:0:0:0:0:0:1
+20150716.1414.26 info  Worker0#1      Connection from 0:0:0:0:0:0:0:1
+20150716.1414.33 info  Worker0#2      Creating user: Qqqqqqqq
+20150716.1414.58 info  Worker0#2      Created user: Qqqqqqqq
+20150716.1414.59 info  Worker0#2      0:0:0:0:0:0:0:1 siplet MXP MSDP GMCP ANSI, character login: Qqqqqqqq

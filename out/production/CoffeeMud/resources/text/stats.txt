@@ -1,0 +1,8 @@
+^yYour stats below reflect your physical and mental gifts.  They can be boosted through the use of ^HTraining points^?, which are granted at first level, and are gained at a rate of one per level.  These training points are also needed to gain new spells and abilities which your class qualifies for, but does not get at first level.^N
+
+^ZStrength:^.^? Your Strength, quite simply, represents how strong you physically are. It is your muscle force.
+^ZDexterity:^.^? Your Dexterity represents how agile you are and how well your reflexes are as well as your eye-hand coordination.
+^ZEndurance:^.^? Your Endurance represents how healthy you are, how much punishment you can take before going down, your ability to fight off fatigue as well as pushing your body to the limit .
+^ZIntelligence:^.^? Your Intelligence is a little more than your raw intellect and power of memory. It represents your mental quickness, how fast you can reach critical decisions, how sharp your senses are and how well you can handle technology, just to name a few.
+^ZSpirit:^.^? Your Spirit Attribute determines the strength of your soul, and your ability to harness the life energy that your body produces naturally.
+^ZQuickness:^.^? Your Quickness represents how fast you are physically, your agility and flexibility.

@@ -1,0 +1,3 @@
+\n\r\n\r^pChoose a race for your character.  Although races are meant primarily for role-playing purposes, there are some significant differences between the several races.^N
+^XHuman   :^.^? Humans, sometimes referred to as just Earthlings, are the main inhabitants of the planet Earth.
+^XNamek   :^.^? Nameks are humanoid with plant and slug-like characteristics, including green skin and antennae.
