@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="siplet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/pub/siplet/siplet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

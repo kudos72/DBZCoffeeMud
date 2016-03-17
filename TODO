@@ -1,0 +1,41 @@
+BUGS
+  *. 
+
+TECH
+   *. test and debug launch and landing
+   *. ShopKeeper VIEW should give more information about tech items
+   *. interacting items of diff tech level might damage each other
+   *. personal scanner/tricorder software: mineral scanner, computer interface (with ship perhaps?)!
+   *. entry systems for ships (default entry key card, voice code, identifying scanner)
+   *. work on automatic component values
+   *. make sure shopkeeper item techlevels watch the master tech level
+   *. make ship sensor systems
+   *. make tractor beam system -- esp important for pirates!
+   *. make ship shield systems murder motel again -- some good against phasers, some torpedos, some lasers
+   *. make ship phaser, laser systems murder motel again
+   *. make ship torpedo launchers and torpedo containers
+   *. make ship impulse and warp engines
+   *. make ship dampeners
+   *. damaged systems should sometimes require random parts, from particular manufacturers, that repair respects
+   *. finish main ship software for controlling all this stuff
+   *. add electronics to guides, how to make a ship, how to build space, etc, details about tech
+   *. add electronics to MG
+   *. add spaceobject stuff to MG
+   *. add spaceobject mapper system to MG
+   *. keep reviewing and updating the GameOverview.html doc
+
+NON-TECH
+   *. Wants and Needs engine - similar to slavery system
+   *. Start on Spells
+   *. RandomQuests based off the Percolator engine -- a way to randomly generate different quests.
+   *. Create Magi Robes(or whatever you wanted to call them) that would enhance his/her magic of their chosen field.
+   *. retest private libs, private dbtables, private classes, private area objects, private players
+   *. OLC for players?  Play with PennMush more. Port 4201
+   *. Finish Player Simulator -- the Perpetual Project
+   *. Facebook interface?
+   *. Ongoing 1.4 template compat: Drop.java, Get.java, Wield, Follow, AutoAffects, Equipment, Inventory, Wealth, Read, Wear, Wield
+   *. MudFTP/DawnFTP support - lets you edit room descriptions etc. in your favourite text editor, or just for fun
+   *. Clan Calendar system, that can use mud and rl dates, for scheduling things. Might send reminders -- based on journaling system of course.
+   *. Lich Phylactery -- acts as a recall beacon, but only during death. If the Phylactery is destroyed then the lich loses xp and must construct a new one,
+      undergoing the ritual all over again. However if they have a phylactery when they die they do not lose experience but they do have to wait until their
+      corperal body is remade, giving them a waiting period in an incorporeal state.
